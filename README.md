@@ -1,45 +1,63 @@
+<div align="center">
+
 # 👋 Olá, eu sou Gustavo Felipe
 
-### 💻 Desenvolvedor em formação | Java • MySQL • Cybersecurity
+### 💻 Desenvolvedor em formação
 
-Sou estudante de tecnologia e desenvolvedor em formação, interessado em **desenvolvimento de software, bancos de dados e segurança da informação**.
+**Java • MySQL • Cybersecurity**
 
-Atualmente estou me desenvolvendo principalmente em **Java e MySQL** e começando meus estudos em **Cybersecurity**, buscando transformar meus conhecimentos em projetos práticos e evoluir constantemente.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gustavofelipeol00-commits)
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-* ☕ Me desenvolvendo em **Java**
-* 🗄️ Estudando **MySQL e bancos de dados**
-* 🔐 Iniciando meus estudos em **Cybersecurity**
-* 💻 Desenvolvendo projetos para colocar meus conhecimentos em prática
-* 🛠️ Explorando desenvolvimento de sistemas e APIs
-* 📚 Sempre buscando aprender novas tecnologias
-* 🎯 Construindo minha base para atuar profissionalmente na área de tecnologia
+Sou estudante de tecnologia e desenvolvedor em formação, interessado em **desenvolvimento de software, bancos de dados e segurança da informação**.
+
+Atualmente estou me desenvolvendo principalmente em **Java e MySQL** e iniciando meus estudos em **Cybersecurity**.
+
+Meu objetivo é transformar conhecimento em projetos práticos, aprender continuamente e construir uma base sólida para minha carreira na área de tecnologia.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧠 No que estou focado
+
+```text
+☕ Java
+🗄️ MySQL
+🔐 Cybersecurity
+💻 Desenvolvimento de Software
+🔧 Git & GitHub
+🌐 Fundamentos de Redes
+```
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
 
 ### 💻 Desenvolvimento
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/>
 
 ### 🗄️ Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
 
 ### 🔐 Cybersecurity
 
-**Em aprendizado:** fundamentos de segurança da informação, redes, sistemas e boas práticas de segurança.
+<img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux"/>
 
-### 🛠️ Ferramentas
+### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="55" alt="Ferramentas"/>
+
+</div>
 
 ---
 
@@ -47,7 +65,7 @@ Atualmente estou me desenvolvendo principalmente em **Java e MySQL** e começand
 
 ### 🏥 Sistema de Gestão de Estoque
 
-Sistema desenvolvido para uma clínica, envolvendo gerenciamento de estoque, produtos, lotes, validade, pacientes e funcionalidades administrativas.
+Sistema desenvolvido para uma clínica, com funcionalidades relacionadas ao gerenciamento de estoque, produtos, lotes, validade, pacientes e processos administrativos.
 
 🔒 **Projeto privado**
 
@@ -57,7 +75,7 @@ Sistema desenvolvido para uma clínica, envolvendo gerenciamento de estoque, pro
 
 ### 🌐 Portfólio
 
-Meu portfólio pessoal para apresentar meus projetos, conhecimentos e evolução como desenvolvedor.
+Projeto pessoal desenvolvido para apresentar meus projetos, conhecimentos e evolução como desenvolvedor.
 
 🚧 **Em desenvolvimento**
 
@@ -69,32 +87,82 @@ Meu portfólio pessoal para apresentar meus projetos, conhecimentos e evolução
 * 🗄️ MySQL
 * 🔐 Fundamentos de Cybersecurity
 * 🌐 Redes e fundamentos de sistemas
+* 🐧 Linux
 * 🔧 Git e GitHub
 * 💻 Desenvolvimento de software
 
 ---
 
-## 🎯 Meus objetivos
+## 🎯 Objetivos
 
-* 🚀 Evoluir cada vez mais em Java
-* 🗄️ Aprofundar meus conhecimentos em bancos de dados
+* 🚀 Evoluir constantemente em Java
+* 🗄️ Aprofundar conhecimentos em bancos de dados
 * 🔐 Construir uma base sólida em Cybersecurity
+* 🐧 Aprender cada vez mais sobre Linux
+* 🌐 Entender melhor redes e infraestrutura
 * 💻 Criar projetos cada vez mais completos
 * 🌎 Construir um portfólio profissional
 * 🤝 Participar de projetos e contribuir com a comunidade
-* 📈 Evoluir constantemente como profissional de tecnologia
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo619\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofelipeol00-commits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo619\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofelipeol00-commits&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gustavofelipeol00-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gustavofelipeol00-commits/gustavofelipeol00-commits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📈 Minha jornada
+
+```text
+2026
+ │
+ ├── ☕ Desenvolvimento com Java
+ │
+ ├── 🗄️ MySQL e bancos de dados
+ │
+ ├── 🔧 Git & GitHub
+ │
+ ├── 🐧 Linux
+ │
+ └── 🔐 Início dos estudos em Cybersecurity
+ │
+ └── 🚀 Próximo passo: continuar construindo
+```
+
+---
+
+## 💡 Filosofia
+
+> **Aprender é importante. Construir é essencial.**
+
+Busco transformar cada novo conhecimento em algo prático, entendendo não apenas **como** uma tecnologia funciona, mas também **por que** e **quando** utilizá-la.
 
 ---
 
@@ -102,7 +170,9 @@ Meu portfólio pessoal para apresentar meus projetos, conhecimentos e evolução
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gustavo619)
+<a href="https://github.com/gustavofelipeol00-commits">
+<img src="https://img.shields.io/badge/GitHub-gustavofelipeol00--commits-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -110,6 +180,10 @@ Meu portfólio pessoal para apresentar meus projetos, conhecimentos e evolução
 
 <div align="center">
 
-### 🚀 Aprendendo, construindo e evoluindo.
+### 🚀 Sempre aprendendo. Sempre construindo. Sempre evoluindo.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gustavofelipeol00-commits&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
