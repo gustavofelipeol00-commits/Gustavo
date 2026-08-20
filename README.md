@@ -113,12 +113,19 @@ Projeto pessoal desenvolvido para apresentar meus projetos, conhecimentos e evol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofelipeol00-commits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gustavofelipeol00-commits&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofelipeol00-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofelipeol00-commits&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
